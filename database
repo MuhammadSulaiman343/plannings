@@ -1,0 +1,12 @@
+--select * from InteropInMessageExceptions
+
+select * from InteropOutMessageExceptions
+ 
+error
+ 
+select * from InteropOutMessageActions where InteropOutMessageId=80474
+
+--select * from InteropInMessageActions
+ 
+reject reason
+ 
